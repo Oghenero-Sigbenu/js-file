@@ -1,5 +1,5 @@
 // Due date
-let expiryDate = new Date("Jul 9, 2020 14:40:00").getTime();
+let expiryDate = new Date("Jul 12, 2020 12:00:00").getTime();
 
 
 let x = setInterval(() => {
